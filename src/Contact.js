@@ -54,13 +54,14 @@ function Contact(){
               </div>
             </div>
             <div className="csec-4">
-              <div className="c">
+              <img src="https://delhimetrorail.co.in/wp-content/uploads/delhi-metro-map.jpg" alt="map" className='map-img' />
+              {/* <div className="c">
                 <div className=' map-container'>
                   <div className='map-icon text-center'><img src="https://maps.gstatic.com/mapfiles/api-3/images/icon_error.png" alt="contact" /></div>
                   <div className='map-txt'>Oops! Something went wrong.</div>
                   <div className='map-para'>This page didn't load Google Maps correctly. See the JavaScript console for technical details.</div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
           <Footer/>
